@@ -52,10 +52,7 @@ Then use the buttons in order:
 
 1. Generate device CA
 2. Install CA in Windows
-3. Start Xray
-4. Enable proxy
-
-When finished, click `Disable proxy` and `Stop Xray`.
+3. Press Connect
 
 If the user no longer wants this device CA trusted, click `Remove CA from Windows`.
 
